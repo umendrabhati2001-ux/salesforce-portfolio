@@ -274,7 +274,7 @@ html.dark-smart-mode .sf-avatar-circle img {
               <div className="sf-left-col">
                 <div className="sf-avatar-wrap">
                   <div className="sf-avatar-circle">
-                    <img src="/src/components/img.jpeg" alt="Umendra Bhati" onError={(e) => { e.target.src = "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300"; }} />
+                    <img src="/img.jpeg" alt="Umendra Bhati" onError={(e) => { e.target.src = "/img.jpeg"; }} />
                     <span className="sf-online-dot"></span>
                   </div>
                 </div>

@@ -545,7 +545,7 @@ function Navbar() {
           >
             <div className="avatar-ring">
               <img
-                src="/src/components/img.jpeg"
+                src="/img.jpeg"
                 alt="Umendra Bhati"
                 className="avatar-img"
               />
@@ -684,7 +684,7 @@ function Navbar() {
               <div style={{ display: "flex", gap: "12px", alignItems: "center", marginBottom: "14px" }}>
                 <div style={{ width: "52px", height: "52px", borderRadius: "50%", padding: "2px", border: "2px solid #0284c7" }}>
                   <img
-                    src="/src/components/img.jpeg"
+                    src="/img.jpeg"
                     alt="Umendra Bhati"
                     style={{ width: "100%", height: "100%", borderRadius: "50%", objectFit: "cover" }}
                   />
